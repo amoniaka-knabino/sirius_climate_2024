@@ -1,7 +1,7 @@
 # Восстановление относительной влажности атмосферы над океаном с использованием методов машинного обучения на основе метеорологических данных
 
-Задание: https://github.com/MKrinitskiy/Sirius-AI4Climate-2024/blob/main/DISO3-dataset-description.md/
-Презентация проекта: https://docs.google.com/presentation/d/1q_6_r-C8yxQ-BnrE8au0mfJQEuFKECe7ppDl_3p38LY/edit#slide=id.g30c4f6f590e_0_88/
+###### Задание: https://github.com/MKrinitskiy/Sirius-AI4Climate-2024/blob/main/DISO3-dataset-description.md
+###### Презентация проекта: https://docs.google.com/presentation/d/1q_6_r-C8yxQ-BnrE8au0mfJQEuFKECe7ppDl_3p38LY/edit#slide=id.g30c4f6f590e_0_88
 
 ### Используемые данные: коллекция данных DISO3*
 * Dataset of In-Situ Observations over the Ocean, коллекция данных in situ наблюдений в море.
